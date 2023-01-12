@@ -19,6 +19,11 @@ collections_config:
     position_number: 2
     output: false
     path: _api
+  websocket:
+    title: Websocket
+    position_number: 3
+    output: false
+    path: _websocket
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
