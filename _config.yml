@@ -47,6 +47,11 @@ defaults:
       type: "api"
     values:
       _hide_content: true
+  -
+    scope:
+      type: "websocket"
+    values:
+      _hide_content: true
 
 # -----------
 # CloudCannon
